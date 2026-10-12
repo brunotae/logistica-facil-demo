@@ -1,0 +1,14 @@
+{
+  "name": "Logística Fácil · FCA LOG",
+  "short_name": "Logística Fácil",
+  "description": "Cotação de frete marítimo FCL da FCA LOG",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F2EFE9",
+  "theme_color": "#F2EFE9",
+  "icons": [
+    { "src": "icon-v1.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
